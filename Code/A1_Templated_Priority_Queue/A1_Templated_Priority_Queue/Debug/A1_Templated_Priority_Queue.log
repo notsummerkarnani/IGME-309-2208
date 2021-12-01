@@ -1,0 +1,7 @@
+﻿  A1_Templated_Priority_Queue.cpp
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\A1_Templated_Priority_Queue\A1_Templated_Priority_Queue\A1_Templated_Priority_Queue.cpp(27,32): warning C4244: 'argument': conversion from 'int' to 'Placeholder', possible loss of data
+          with
+          [
+              Placeholder=float
+          ]
+  A1_Templated_Priority_Queue.vcxproj -> C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\A1_Templated_Priority_Queue\Debug\A1_Templated_Priority_Queue.exe

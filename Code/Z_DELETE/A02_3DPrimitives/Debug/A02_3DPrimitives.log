@@ -1,0 +1,22 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  AppClass.cpp
+  AppClassControls.cpp
+  AppClassGUI.cpp
+  AppClassMain.cpp
+  Main.cpp
+  MyMesh.cpp
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(100,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(145,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(214,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(215,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(220,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(221,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(274,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(275,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(279,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\A02_3DPrimitives\MyMesh.cpp(280,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  A02_3DPrimitives.vcxproj -> C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\Z_DELETE\A02_3DPrimitives_d.exe

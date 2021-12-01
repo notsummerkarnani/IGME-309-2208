@@ -1,0 +1,19 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  AppClass.cpp
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\E05_Transformations\AppClass.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\E05_Transformations\AppClass.cpp(127,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\E05_Transformations\AppClass.cpp(128,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  AppClassControls.cpp
+  AppClassGUI.cpp
+  AppClassMain.cpp
+  Main.cpp
+  MyMesh.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  E05_Transformations.vcxproj -> C:\Users\Samar\source\repos\2208-igme309-01-samarkarnani\E01 - VS19 Config\Z_DELETE\E05_Transformations.exe
+  Copying files...
+          1 file(s) copied.
